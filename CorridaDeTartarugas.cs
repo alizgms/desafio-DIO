@@ -1,7 +1,7 @@
 using System;
 using System.Linq;
 
-    class CorridaDeTartarugas {
+    class corridaDeTartarugas {
 
         static void Main(string[] args) {
 
