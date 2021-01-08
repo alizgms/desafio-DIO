@@ -2,6 +2,7 @@
 Solução de problemas essenciais com c#
 
 iNFORMAÇÕES DE CONTATO
+
 Linkedin:
 
 https://www.linkedin.com/in/jessica-maria-kazmirowski/
