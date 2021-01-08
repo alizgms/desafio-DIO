@@ -1,7 +1,7 @@
 # desafio-DIO
 Solução de problemas essenciais com c#
 
-iNFORMAÇÕES DE CONTATO
+INFORMAÇÕES DE CONTATO
 
 Linkedin:
 
