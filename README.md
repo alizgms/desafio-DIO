@@ -31,6 +31,7 @@ karlaleticiatavares@gmail.com
 
 
 Perfil na DIO: 
+
 Jéssica Kazmirowski
 
 Karla Paulino
@@ -38,6 +39,7 @@ Karla Paulino
 Anna Guimarães
 
 Instituição de ensino:
+
 Jéssica - Análise e Desenvolvimento de Sistemas - UNOPAR EAD
 
 Karla - Análise e Desenvolvimento de Sistemas - FAC SENAC PE
