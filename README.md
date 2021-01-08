@@ -1,8 +1,9 @@
 # desafio-DIO
 Solução de problemas essenciais com c#
 
-CONTATO
+iNFORMAÇÕES DE CONTATO
 Linkedin:
+
 https://www.linkedin.com/in/jessica-maria-kazmirowski/
 
 https://www.linkedin.com/in/alizgms/
@@ -11,6 +12,7 @@ https://www.linkedin.com/in/leticiatpaulino/
 
 
 Github:
+
 https://github.com/JKazmirowski
 
 https://github.com/alizgms
@@ -19,6 +21,7 @@ https://github.com/LeticiaTP
 
 
 Email:
+
 jessicakazmirowski2179@gmail.com
 
 justadaliz@gmail.com 
@@ -31,8 +34,11 @@ Jéssica Kazmirowski
 
 Karla Paulino
 
+Anna Guimarães
 
 Instituição de ensino:
-Análise e Desenvolvimento de Sistemas - UNOPAR EAD
+Jéssica - Análise e Desenvolvimento de Sistemas - UNOPAR EAD
 
-Análise e Desenvolvimento de Sistemas - FAC SENAC PE
+Karla - Análise e Desenvolvimento de Sistemas - FAC SENAC PE
+
+Alice - Ciência da Computação - UNIFBV
