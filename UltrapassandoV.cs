@@ -9,7 +9,7 @@ class UltrapassandoV {
 
         do {
 
-            V = Int32.Parse(Console.ReadLine()); // recebe o valor de V, até que o valor de V seja menor ou igual a R
+            V = Int32.Parse(Console.ReadLine()); //recebe o valor de V, até que o valor de V seja menor ou igual a R
 
         } while (V <= R);
 
@@ -24,7 +24,7 @@ class UltrapassandoV {
 
         }
 
-        Console.WriteLine(contador); // mostra a quantidade de vezes que foi necessário para fazer a ultrapassagem
+        Console.WriteLine(contador); //mostra a quantidade de vezes que foi necessário para fazer a ultrapassagem
 
     }
 }
